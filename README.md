@@ -1,6 +1,6 @@
 ## Lexico definition lookup
 
-[![CircleCI](https://circleci.com/gh/ericvan76/right-click-translate/tree/master.svg?style=svg)](https://circleci.com/gh/ericvan76/right-click-translate/tree/master)
+[![CircleCI](https://circleci.com/gh/thekalinga/right-click-lexico/tree/master.svg?style=svg)](https://circleci.com/gh/thekalinga/right-click-lexicotree/master)
 
 Right Click to lookup definition of selected word in a new Tab using Lexico
 
