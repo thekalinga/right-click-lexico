@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/thekalinga/right-click-lexico/tree/master.svg?style=svg)](https://circleci.com/gh/thekalinga/right-click-lexicotree/master)
 
-Right Click to lookup definition of selected word in a new Tab using Lexico
+Right Click to lookup definition of selected word in a new Tab using Lexico. Lexico is powered by Oxford Dictionary
 
 Privacy: Unlike other browser extensions, this extension does not track you in anyway
 
