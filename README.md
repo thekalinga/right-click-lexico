@@ -6,7 +6,7 @@ Right Click to lookup definition of selected word in a new Tab using Lexico
 
 Privacy: Unlike other browser extensions, this extension does not track you in anyway
 
-See [Extension Page](https://goo.gl/DZrEnA)
+See [Extension Page](https://chrome.google.com/webstore/detail/lexico-word-definition-lo/afhfgocoemlagldkalfgobmbkhljkemo)
 
 ### What's New
 
